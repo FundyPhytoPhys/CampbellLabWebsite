@@ -1,5 +1,5 @@
 
-# NaamanOmar's Website
+# The Campbell Phytoplankton Ecophysiology Lab's Website
 
 Visit **[fundyphytophys.github.io/CampbellLabWebsite](https://fundyphytophys.github.io/CampbellLabWebsite)** 🚀
 
