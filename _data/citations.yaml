@@ -1986,12 +1986,12 @@
   link: https://doi.org/gr3sd7
   plugin: sources.py
   file: sources.yaml
-- id: scop:57130946800
-  title: ''
+- id: orcid:0000-0001-8996-5463
+  title: ORCID
   authors: []
   publisher: ''
   date: ''
-  link: http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?sunid=57130946800
+  link: https://orcid.org/0000-0001-8996-5463
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/toxins10010048
