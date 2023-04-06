@@ -1,20 +1,12 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1128/MMBR.62.3.667-683.1998
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  date: 1998-09-1
+  image: https://journals.asm.org/cms/10.1128/MMBR.62.3.667-683.1998/asset/c9dfae6c-5eca-48f6-8da2-b7601846a8a7/assets/graphic/mr0380023001.jpeg
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - cyanobacteria
+    - photosynthesis
+
   
 - id: doi:10.3390/microorganisms10040821
 
@@ -23,6 +15,7 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
 
 - id: doi:10.1111/oik.09469
 - id: doi:10.1007/978-3-031-13682-5_10
