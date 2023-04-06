@@ -1,8 +1,8 @@
 ---
 name: Mireille Savoie
 image: images/photo.jpg
-description: Master's Student& Isotope Lab Manager
-role: Isotope Lab Manager/Master's Student
+description: Master's Student & Isotope Lab Manager
+role: programmer
 links:
   email: msavoie@mta.ca
 ---
