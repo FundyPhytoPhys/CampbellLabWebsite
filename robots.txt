@@ -1,1 +1,1 @@
-Sitemap: /MTACampbellLab.github.io/sitemap.xml
+Sitemap: /CampbellLabWebsite/sitemap.xml
