@@ -1,9 +1,9 @@
 ---
 ---
 
-# NaamanOmar's Website
+# Campbell Phytoplankton Ecophysiology Lab Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the Campbell Phytoplankton Ecophysiology Lab Website at Mount Allison University.
 
 {% include section.html %}
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="tools"
+  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
