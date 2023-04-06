@@ -4,11 +4,11 @@ description: Phytoplankton Ecophysiology Lab at Mount Allison University.
 header: images/background.jpg
 footer: images/background.jpg
 links:
-  email: contact@your-lab.com
+  email: dcampbel@mta.ca
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
+  github: FundyPhytoPhys
+  twitter: FundyPhytoPhys
   youtube: YourLabChannel
 defaults:
   - scope:
