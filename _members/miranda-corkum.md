@@ -1,10 +1,10 @@
 ---
-name: Sylwia Sliwinska-Wilczewska
+name: Miranda Corkum
 image: images/photo.jpg
-description: Visiting professor
-role: programmer
+description: XXX
+role: XXX
 links:
-  email: ssliwinskawilczews@mta.ca
+  email: mcorkum@mta.ca
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

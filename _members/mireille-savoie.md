@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Mireille Savoie
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role: Isotope Lab Manager/Master's Student
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: msavoie@mta.ca
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

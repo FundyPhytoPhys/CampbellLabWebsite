@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Douglas A. Campbell
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - DA Campbell
+  - Doug
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://mta.ca/directory/douglas-campbell
+  orcid: 12345
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
