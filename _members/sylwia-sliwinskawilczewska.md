@@ -2,7 +2,7 @@
 name: Sylwia Sliwinska-Wilczewska
 image: images/photo.jpg
 description: Visiting professor
-role: programmer
+role: postdoc
 links:
   email: ssliwinskawilczews@mta.ca
   orcid: 0000-0002-3147-6605
