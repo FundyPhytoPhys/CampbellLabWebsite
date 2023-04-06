@@ -9,7 +9,6 @@ links:
   google-scholar: ETJoidYAAAAJ
   github: FundyPhytoPhys
   twitter: FundyPhytoPhys
-  youtube: YourLabChannel
 defaults:
   - scope:
       path: ""
