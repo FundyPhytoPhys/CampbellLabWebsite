@@ -2,7 +2,7 @@
 name: Maximilian Berthold
 image: images/photo.jpg
 description: Postdoctoral researcher
-role: Postdoctoral researcher
+role: postdoc
 links:
   email: mberthold@mta.ca
   orcid: 0000-0003-1985-6426
