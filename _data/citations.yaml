@@ -12,8 +12,8 @@
   publisher: Oikos
   date: '2023-01-24'
   link: https://doi.org/gr3scn
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-13682-5_10
@@ -26,8 +26,8 @@
   publisher: Ecological Studies
   date: '2023-01-01'
   link: https://doi.org/gr3scp
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-13682-5_13
@@ -41,8 +41,8 @@
   publisher: Ecological Studies
   date: '2023-01-01'
   link: https://doi.org/gr3scq
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-13682-5_18
@@ -52,8 +52,8 @@
   publisher: Ecological Studies
   date: '2023-01-01'
   link: https://doi.org/gr3scr
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-13682-5_12
@@ -69,8 +69,8 @@
   publisher: Ecological Studies
   date: '2023-01-01'
   link: https://doi.org/gr3scs
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.06.07.495132
@@ -85,8 +85,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-06-09'
   link: https://doi.org/gr3sct
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ecs2.4062
@@ -100,8 +100,8 @@
   publisher: Ecosphere
   date: '2022-05-01'
   link: https://doi.org/gqbb5v
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/conphys/coab062
@@ -112,8 +112,8 @@
   publisher: Conservation Physiology
   date: '2021-01-01'
   link: https://doi.org/gr3scv
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0247696
@@ -125,8 +125,8 @@
   publisher: PLOS ONE
   date: '2021-05-06'
   link: https://doi.org/gr3scw
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2021.03.01.433077
@@ -140,8 +140,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-03-01'
   link: https://doi.org/gr3scx
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2021.02.12.430911
@@ -153,8 +153,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-02-12'
   link: https://doi.org/gr3scz
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/feart.2020.542391
@@ -169,13 +169,13 @@
   publisher: Frontiers in Earth Science
   date: '2021-01-28'
   link: https://doi.org/gr3sc2
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85085363589
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -188,8 +188,8 @@
   publisher: Frontiers in Marine Science
   date: '2020-05-13'
   link: https://doi.org/ghrfh7
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/9781119300762.wsts0146
@@ -209,13 +209,13 @@
   publisher: Encyclopedia of Water
   date: '2019-12-29'
   link: https://doi.org/gr3sc3
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85065561219
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -232,8 +232,8 @@
   publisher: Environmental Sciences Europe
   date: '2019-05-07'
   link: https://doi.org/gr3sc4
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/database/baz085
@@ -1824,19 +1824,19 @@
   publisher: Database
   date: '2019-01-01'
   link: https://doi.org/gh8sx2
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85082592913
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85065181292
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1852,13 +1852,13 @@
   publisher: Frontiers in Marine Science
   date: '2019-03-26'
   link: https://doi.org/gr3sc5
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85086332015
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1873,13 +1873,13 @@
   publisher: Wasser und Abfall
   date: '2019-03-01'
   link: https://doi.org/gr3sc6
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85032824017
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1895,8 +1895,8 @@
   publisher: Science of The Total Environment
   date: '2018-03-01'
   link: https://doi.org/gr3sc7
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fmars.2018.00305
@@ -1910,13 +1910,13 @@
   publisher: Frontiers in Marine Science
   date: '2018-09-05'
   link: https://doi.org/grctfk
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85053105835
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1931,13 +1931,13 @@
   publisher: Ambio
   date: '2017-11-21'
   link: https://doi.org/gr3sc8
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: eid:2-s2.0-85034644821
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -1949,8 +1949,8 @@
   publisher: "Universit\xE4t Rostock"
   date: '2018-01-01'
   link: https://doi.org/gr3sc9
-  orcid: 0000-0002-3147-6605
-  page: sylwia-sliwinskawilczewska
+  orcid: 0000-0001-8996-5463
+  page: douglas-campbell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1128/MMBR.62.3.667-683.1998
