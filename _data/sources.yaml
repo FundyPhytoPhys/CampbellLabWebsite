@@ -15,14 +15,9 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
-
-
--id: doi:10.1111/oik.09469
-  type: paper
   
 -id: doi:10.3390/microorganisms10040821
   tags:
     - Reactive Oxygen Species
     - Phytoplankton
-  date: 2022-04-15
+  date: 2022-4-15
