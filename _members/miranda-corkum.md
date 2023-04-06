@@ -2,7 +2,7 @@
 name: Miranda Corkum
 image: images/photo.jpg
 description: Lab culture manager
-role: XXX
+role: programmer
 links:
   email: mcorkum@mta.ca
 ---
