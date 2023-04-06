@@ -8,7 +8,7 @@ aliases:
 links:
   home-page: https://mta.ca/directory/douglas-campbell
   orcid: 12345
-  google-scholar: OHfbn3QAAAAJ&hl
+  google-scholar: OHfbn3QAAAAJ
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
