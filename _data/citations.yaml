@@ -1986,6 +1986,14 @@
   link: https://doi.org/gr3sd7
   plugin: sources.py
   file: sources.yaml
+- id: scop:57130946800
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?sunid=57130946800
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/toxins10010048
   title: Allelopathic and Bloom-Forming Picocyanobacteria in a Changing World
   authors:
