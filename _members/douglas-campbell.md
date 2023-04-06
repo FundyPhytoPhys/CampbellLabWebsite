@@ -7,7 +7,7 @@ aliases:
   - Doug
 links:
   home-page: https://mta.ca/directory/douglas-campbell
-  orcid: 12345
+  orcid: 0000-0001-8996-5463
   google-scholar: OHfbn3QAAAAJ
 ---
 
