@@ -164,7 +164,7 @@
 - id: eid:2-s2.0-85085363589
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.3389/fmars.2020.00281
   title: 'Phosphorus Dynamics in a Eutrophic Lagoon: Uptake and Utilization of Nutrient
@@ -201,7 +201,7 @@
 - id: eid:2-s2.0-85065561219
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.1186/s12302-019-0208-y
   title: "Magnitude and influence of atmospheric phosphorus deposition on the southern\
@@ -1813,12 +1813,12 @@
 - id: eid:2-s2.0-85082592913
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85065181292
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.3389/fmars.2019.00118
   title: "Eddies: Fluid Dynamical Niches or Transporters?\u2013A Case Study in the\
@@ -1838,7 +1838,7 @@
 - id: eid:2-s2.0-85086332015
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.1007/s35152-019-0016-0
   title: "Prozesse der Eutrophierung und  Re-Mesotrophierung der Dar\xDF-Zingster\
@@ -1857,7 +1857,7 @@
 - id: eid:2-s2.0-85032824017
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.1016/j.scitotenv.2017.10.244
   title: 'Potential export of soluble reactive phosphorus from a coastal wetland in
@@ -1891,7 +1891,7 @@
 - id: eid:2-s2.0-85053105835
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.1007/s13280-017-0980-0
   title: Phytoplankton can bypass nutrient reductions in eutrophic coastal water bodies
@@ -1910,7 +1910,7 @@
 - id: eid:2-s2.0-85034644821
   orcid: 0000-0001-9583-2886
   plugin: orcid.py
-  file: orcid_naaman.yaml
+  file: orcid.yaml
   date: ''
 - id: doi:10.18453/ROSDOK_ID00002106
   title: "The influence of phosphorus on the eutrophication process in the Dar\xDF\
