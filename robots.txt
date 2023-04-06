@@ -1,1 +1,1 @@
-Sitemap: /LabTest/sitemap.xml
+Sitemap: /MTACampbellLab.github.io/sitemap.xml
