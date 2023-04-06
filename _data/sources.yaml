@@ -16,11 +16,7 @@
     - collaboration
   repo: greenelab/meta-review
 
--id: doi:10.1007/978-3-031-13682-5_10
-  type: book
 
--id: doi:10.1007/978-3-031-13682-5_13
-  type: book
 
 -id: doi:10.1111/oik.09469
   type: paper
