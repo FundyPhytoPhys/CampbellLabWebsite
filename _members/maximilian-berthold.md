@@ -1,7 +1,7 @@
 ---
 name: Maximilian Berthold
 image: images/photo.jpg
-description: Lorem ipsum
+description: Postdoctoral researcher
 role: Postdoctoral researcher
 links:
   email: mberthold@mta.ca
