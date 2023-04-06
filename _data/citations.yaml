@@ -1956,3 +1956,15 @@
   link: https://doi.org/gr3sd7
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3390/toxins10010048
+  title: Allelopathic and Bloom-Forming Picocyanobacteria in a Changing World
+  authors:
+  - "Sylwia \u015Aliwi\u0144ska-Wilczewska"
+  - Jakub Maculewicz
+  - Aldo Barreiro Felpeto
+  - "Adam Lata\u0142a"
+  publisher: Toxins
+  date: '2018-01-20'
+  link: https://doi.org/gq7fdb
+  plugin: sources.py
+  file: sources.yaml
